@@ -36,3 +36,10 @@ W:
   - If not there, create a new issue. Be as descriptive as possible.
 - Ask in our weekly IT Club office hours (Thursdays at lunch in Room 203).
 - For other general problems, email the tech team at techclub@mergingtonhigh.example.edu
+# Core functionality - changes here should be rare!
+/src/app.py                   @wwy030714
+/src/backend/database.py      @wwy030714
+/src/backend/routers/auth.py  @wwy030714
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @wwy030714
